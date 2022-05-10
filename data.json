@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Junior Front End",
+    "condition1": "Full Time",
+    "condition2": "Remote",
+    "skills1": "html",
+    "skills2": "css",
+    "skills3": "javascript",
+    "skills4": "bootstrap"
+  },
+  {
+    "title": "Front End Developer",
+    "condition1": "Full Time",
+    "condition2": "Remote",
+    "skills1": "react",
+    "skills2": "html",
+    "skills3": "jquery",
+    "skills4": "bootstrap"
+  },
+  {
+    "title": "Front End (Angular)",
+    "condition1": "Full Time",
+    "condition2": "Remote",
+    "skills1": "html",
+    "skills2": "css",
+    "skills3": "sass",
+    "skills4": "angular"
+  },
+  {
+    "title": "MidLevel Front End",
+    "condition1": "Full Time",
+    "condition2": "Remote",
+    "skills1": "html",
+    "skills2": "css",
+    "skills3": "javascript",
+    "skills4": "bootstrap"
+  },
+  {
+    "title": "Front End Lead",
+    "condition1": "Full Time",
+    "condition2": "Remote",
+    "skills1": "html",
+    "skills2": "css",
+    "skills3": "javascript",
+    "skills4": "vuejs"
+  },
+  {
+    "title": "Front End Intern",
+    "condition1": "Full Time",
+    "condition2": "Remote",
+    "skills1": "html",
+    "skills2": "css",
+    "skills3": "javascript"
+  },
+  {
+    "title": "Junior Front End",
+    "condition1": "Full Time",
+    "condition2": "Remote",
+    "skills1": "typescript",
+    "skills2": "css",
+    "skills3": "react"
+  }
+]
